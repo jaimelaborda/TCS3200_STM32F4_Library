@@ -1,18 +1,18 @@
 #Sensor Color-to-frequency TCS3200/TCS3210
 
 #Indice
-1. [Introducción](#1-Introducción)
-2. [Características técnicas](#2-Características-técnicas)
-3. [Diagrama de Bloques](#3-Diagrama-de-bloques)
-4. [PinOut del TCS3200](#4-Pinout-del-TCS32000)
-5. [PinOut del modulo integrado](#5-Pinout-del-modulo-integrado)
-6. [Configuración Inicial](#6-Configuracion-inicial)
-7. [Configuración de escala y filtro color](#7-Configuracion-escala-y-filtro)
-8. [Lectura de color](#8-Lectura-de-color])
-9. [Librería TCS3200 para STM32F4](#10-Librería-TCS3200-para-STM32F4])
-10. [Calibración del sensor](#11-Calibración-del-sensor])
-11. [Video de ejemplo](#12-Video-de-Ejemplo])
-12. [Bibliografía](#13-Bibliografia])
+1. [Introducción](#1-introducción)
+2. [Características técnicas](#2-características-técnicas)
+3. [Diagrama de Bloques](#3-diagrama-de-bloques)
+4. [PinOut del TCS3200](#4-pinout-del-TCS32000)
+5. [PinOut del modulo integrado](#5-pinout-del-modulo-integrado)
+6. [Configuración Inicial](#6-configuracion-inicial)
+7. [Configuración de escala y filtro color](#7-configuracion-escala-y-filtro)
+8. [Lectura de color](#8-lectura-de-color])
+9. [Librería TCS3200 para STM32F4](#10-librería-TCS3200-para-STM32F4])
+10. [Calibración del sensor](#11-calibración-del-sensor])
+11. [Video de ejemplo](#12-video-de-Ejemplo])
+12. [Bibliografía](#13-bibliografia])
 
 
 ##1. Introducción
