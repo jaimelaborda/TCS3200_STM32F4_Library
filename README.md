@@ -14,7 +14,6 @@
 11. [Video de ejemplo](#12_Video_de_Ejemplo])
 12. [Bibliografía](#13_Bibliografia])
 
----------------------------------
 
 ##1. Introducción
 
