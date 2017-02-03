@@ -15,6 +15,7 @@ Instrucciones:
 	2. Añadir los archivos en el proyecto mediante en el compilador.
 
 Funciones de la librería:
+	
 	void Captura_TCS3200_Init(void); //Inicializa el TIM3 en modo captura -> LLamarla siempre en el main
 	void TCS3200_Config(void); //Configura los pines de comunicación del sensor -> LLamarla siempre en el main
 	void Set_Filter (uint8_t mode); //Mode es de tipo enum Color
