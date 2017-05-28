@@ -1,5 +1,5 @@
-#LIBRERIA SENSOR COLOR TCS3200
-###Proyecto Sistemas Embebidos
+# LIBRERIA SENSOR COLOR TCS3200
+### Proyecto Sistemas Embebidos
 
 
 Esta librería pretende facilitar y aportar un mayor nivel de abstracción en la configuración y proceso de lectura
